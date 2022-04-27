@@ -1,6 +1,3 @@
----
----
-
 // get ihavecookies
 
 
@@ -11,7 +8,7 @@ var options = {
              'and to display content from third party websites.',
     delay: 600,
     expires: 30,
-    link: '{{site.cookie_info}}',
+    link: '',
     acceptBtnLabel: 'Accept',
     moreInfoLabel: 'More information',
     cookieTypesTitle: 'Select which cookies you want to accept',

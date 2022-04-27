@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Friedhelm  Victor | blank</title>
+<title>Friedhelm  Victor | a post with youtube</title>
 <meta name="description" content="Personal page of Friedhelm Victor, PhD Candidate at Technische Universität Berlin, Germany.
 ">
 
@@ -31,7 +31,7 @@
 
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/blog/2021/youtube/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -123,8 +123,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/publications/">
                 publications
@@ -152,26 +150,43 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">a post with youtube</h1>
+    <p class="post-meta">March 20, 2021</p>
+  </header>
+
+  <article class="post-content">
+    <p>A sample blog page that demonstrates the inclusion of youtube videos depending on the users cookie consent setting</p>
+
+<p><br /></p>
+
+<h1 id="video">Video</h1>
+<p>An example of embedding a youtube video:</p>
+
+<div>
+<div id="yt-wrap" style="position:relative; padding-top:56.25%; background-color: lightgray;">
+<!-- below javascript will put the video here -->
+</div>
+</div>
+<script type="text/javascript">
+cookieDependentContent('social','#yt-wrap',
+    "<iframe style='position:absolute;top:0;left:0;width:100%;height:100%;' \
+     src='https://www.youtube-nocookie.com/embed/ekthcIHDt3I' frameborder='0'; allow='accelerometer; autoplay; \
+     clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "<div style='text-align:center; position:absolute;top:0;left:0;width:100%;height:100%; display:flex; justify-content:center; align-items:center;'> \
+     <p style='color:black;'>Please enable 'social' cookies in the <button class='cookieSettings'>Cookie Preferences</button>,<br> \
+     to view the video. Or view on <a href='https://www.youtube-nocookie.com/embed/ekthcIHDt3I'>youtube</a>.</p> \
+     </div>");
+</script>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/youtube/">a post with youtube</a></h3>
-        <p class="post-meta">March 20, 2021</p>
-        <p>an example of a blog post with a youtube video</p>
-      </li>
-    
-  </ul>
+  </article>
 
   
-
 
 </div>
 
