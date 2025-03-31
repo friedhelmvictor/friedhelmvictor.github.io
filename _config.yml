@@ -84,10 +84,6 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
-linkedin_username: friedhelmvictor # your LinkedIn user name
-scholar_userid: qS_JbmoAAAAJ # your Google Scholar ID
-orcid_id: 0000-0001-8329-3133 # your ORCID ID
-
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
