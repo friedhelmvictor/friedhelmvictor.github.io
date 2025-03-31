@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-02-12 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I'm going to be at Financial Cryptography in Miyakojima in April, co-organizing the CAAW workshop again!
