@@ -32,3 +32,15 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"bernhard":
+  - firstname: ["Bernhard", "B.", "Bernhard Haslhofer"]
+  - url: https://bernhardhaslhofer.info/
+
+"skitzler":
+  - firstname: ["Stefan", "S.", "Stefan Kitzler"]
+  - url: https://csh.ac.at/stefan-kitzler/
+
+"cakcora":
+  - firstname: ["Cuneyt", "C.", "Akcora"]
+  - url: https://cakcora.github.io/
