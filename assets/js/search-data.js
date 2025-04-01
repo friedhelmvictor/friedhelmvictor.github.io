@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-going-to-be-at-financial-cryptography-in-miyakojima-in-april-co-organizing-the-caaw-workshop-again",
-          title: 'I’m going to be at Financial Cryptography in Miyakojima in April, co-organizing the...',
+            },},{id: "news-i-m-co-organizing-the-caaw-workshop-at-financial-cryptography-in-2025-again",
+          title: 'I’m co-organizing the CAAW workshop at Financial Cryptography in 2025 again!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
