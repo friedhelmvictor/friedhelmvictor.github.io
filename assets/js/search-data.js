@@ -28,16 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-m-going-to-be-at-financial-cryptography-in-miyakojima-in-april-co-organizing-the-caaw-workshop-again",
+          title: 'I’m going to be at Financial Cryptography in Miyakojima in April, co-organizing the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
