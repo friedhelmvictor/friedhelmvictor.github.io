@@ -25,12 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Friedhelm Victor (Friedhelm is the first name :smirk:) and I'm a Research Scientist at TRM Labs, a blockchain intelligence company that helps financial institutions, businesses and government agencies detect and investigate financial crime and fraud. I have completed a PhD at Technische Universität Berlin in 2022, and have gained several years of experience analyzing financial transaction networks in both traditional finance and modern cryptoasset networks. Most of my research works involve blockchain-based cryptoassets and the Ethereum network.
+My name is Friedhelm Victor (Friedhelm is the first name) and I'm a Research Scientist at TRM Labs, a blockchain intelligence company that helps financial institutions, businesses and government agencies detect and investigate financial crime and fraud. I have completed a doctoral degree at Technische Universität Berlin in 2022, and have gained several years of experience analyzing financial transaction networks in both traditional finance and modern cryptoasset networks. Most of my research works involve blockchain-based cryptoassets and the Ethereum network.
 
 More generally, I'm interested in:
-- Data Mining
-- Network Analysis
-- Privacy & Anonymity
-- Fraud Detection
+- Complex Network Analysis and Empirical Measurement Studies
+- Cryptoasset Analytics and Forensics
+- Financial Crime Detection
+- Underground Marketplaces
+- Web and Mobile Privacy
+- Open Source Intelligence (OSINT)
 
-Prior to completing a PhD at [Technische Universität Berlin](https://www.tu.berlin/), I've completed a Dual Master Degree in Computer Science at TU Berlin and at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).
+Prior to completing a doctoral degree at [Technische Universität Berlin](https://www.tu.berlin/), I've completed a Dual Master Degree in Computer Science at TU Berlin and at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).
