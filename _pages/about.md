@@ -25,14 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Friedhelm Victor (Friedhelm is the first name) and I'm a Research Scientist at TRM Labs, a blockchain intelligence company that helps financial institutions, businesses and government agencies detect and investigate financial crime and fraud. I have completed a doctoral degree at Technische Universität Berlin in 2022, and have gained several years of experience analyzing financial transaction networks in both traditional finance and modern cryptoasset networks. Most of my research works involve blockchain-based cryptoassets and the Ethereum network.
+I study **how much anonymity decentralized financial systems actually provide** to their users, what undermines it, and how analysis methods in this space can be put on a rigorous scientific footing.
 
-More generally, I'm interested in:
-- Complex Network Analysis and Empirical Measurement Studies
-- Cryptoasset Analytics and Forensics
-- Financial Crime Detection
-- Underground Marketplaces
-- Web and Mobile Privacy
-- Open Source Intelligence (OSINT)
+My work combines empirical measurement, graph analytics and security research, including:
+- Evaluating the anonymity of blockchain users, e.g., privacy risks from off-chain cues (PETS&nbsp;'26) and in the Lightning Network (FC&nbsp;'21)
+- Measurement of peer-to-peer networks, e.g., anomalous peers that threaten user privacy in Monero's P2P network (AFT&nbsp;'26)
+- Privacy properties of cryptocurrencies, from address clustering in Ethereum (FC&nbsp;'20) to privacy-focused systems such as Monero, e.g., wallet implementations (ICBC&nbsp;'24) and decentralized P2P exchanges (FC&nbsp;Workshops&nbsp;'25)
+- Financial crime detection, e.g., wash trading (WWW&nbsp;'21) and pump-and-dump schemes (ICDMW&nbsp;'19)
+- Graph analytics for complex financial networks (KDD&nbsp;'21, NeurIPS&nbsp;'22 Datasets & Benchmarks)
 
-Prior to completing a doctoral degree at [Technische Universität Berlin](https://www.tu.berlin/), I've completed a Dual Master Degree in Computer Science at TU Berlin and at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).
+I enjoy supervising students: several master's theses I supervised have turned into publications, most recently at PETS and AFT. Students interested in a thesis on these topics are welcome to reach out about external co-supervision together with an advisor at their institution. I have co-organized the [Cryptoasset Analytics Workshop (CAAW)](https://caaw.io) every year since its first edition in 2022.
+
+I received my doctoral degree (summa cum laude) from [TU&nbsp;Berlin](https://www.tu.berlin/) in 2022. Before that, I completed a dual master's degree in Computer Science at TU&nbsp;Berlin and [KAIST](https://www.kaist.ac.kr/en/), and a bachelor's degree in Software Engineering at the [Hasso Plattner Institute](https://hpi.de/).
